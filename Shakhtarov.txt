@@ -1,5 +1,4 @@
 MY FIRST CHANGE Shakhtarov
-My SECOND CHANGE Shakhtarov
 Private Sub CommandButton1_Click()
 Dim sale As Single
 Dim i As Integer
